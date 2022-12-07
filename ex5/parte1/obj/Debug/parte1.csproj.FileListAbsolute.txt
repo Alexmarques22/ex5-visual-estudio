@@ -1,0 +1,11 @@
+C:\Users\alex.msantos22\source\repos\parte1\parte1\bin\Debug\parte1.exe.config
+C:\Users\alex.msantos22\source\repos\parte1\parte1\bin\Debug\parte1.exe
+C:\Users\alex.msantos22\source\repos\parte1\parte1\bin\Debug\parte1.pdb
+C:\Users\alex.msantos22\source\repos\parte1\parte1\obj\Debug\parte1.csproj.AssemblyReference.cache
+C:\Users\alex.msantos22\source\repos\parte1\parte1\obj\Debug\parte1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex.msantos22\source\repos\parte1\parte1\obj\Debug\parte1.Form1.resources
+C:\Users\alex.msantos22\source\repos\parte1\parte1\obj\Debug\parte1.Properties.Resources.resources
+C:\Users\alex.msantos22\source\repos\parte1\parte1\obj\Debug\parte1.csproj.GenerateResource.cache
+C:\Users\alex.msantos22\source\repos\parte1\parte1\obj\Debug\parte1.csproj.CoreCompileInputs.cache
+C:\Users\alex.msantos22\source\repos\parte1\parte1\obj\Debug\parte1.exe
+C:\Users\alex.msantos22\source\repos\parte1\parte1\obj\Debug\parte1.pdb
